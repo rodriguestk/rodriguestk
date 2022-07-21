@@ -1,4 +1,4 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤOi eu sou Gabriel Rodrigues!
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤOi eu sou Gabriel Rodrigues!
 <div align="center">
   <a href="https://github.com/rodriguestk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodriguestk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
